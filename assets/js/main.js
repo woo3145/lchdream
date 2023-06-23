@@ -110,3 +110,7 @@ sr.reveal(`.about__img-overlay`, {
   origin: 'right',
   interval: 100,
 });
+
+const annual = document.getElementById('annual');
+
+annual.innerText = new Date().getFullYear();
