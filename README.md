@@ -2,4 +2,4 @@
 
 ### 배포
 
-lchdream.com
+https://lchdream.com
